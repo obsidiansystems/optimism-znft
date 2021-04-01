@@ -1,0 +1,12 @@
+# Project specific
+deployments
+typechain
+
+# Packages
+node_modules/
+
+# Hardhat build outputs
+artifacts/
+artifacts-ovm/
+cache/
+cache-ovm
