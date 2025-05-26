@@ -10,7 +10,7 @@ Finally, `yarn install` will handle the Javascript and Solidity dependencies.
 `yarn compile` compiles the contracts for both EVM and OVM.
 
 ### Deploying
-`yarn deploy` deploys the contracts targetting OVM to the Kovan testnet and outputs the resulting transaction and created contract address:
+`yarn deploy` deploys the contracts targeting OVM to the Kovan testnet and outputs the resulting transaction and created contract address:
 ```
 deploying "ZNFT" (tx: 0xf718fe0e27068c0bfcce2c1aca82f463915f11592062bcf18c75aa5a824deec6)...: deployed at 0x9A9f2CCfdE556A7E9Ff0848998Aa4a0CFD8863AE with 6628783 gas
 ```
